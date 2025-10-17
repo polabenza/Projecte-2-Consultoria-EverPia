@@ -1,1 +1,91 @@
+# 📌 Presentació i Anàlisi del Client: RadioCap
 
+## 1. Presentació del client
+
+**Nom:** RadioCap  
+**Sector:** Xarxa de podcasts  
+
+**Breu descripció del negoci:**  
+RadioCap planeja publicar uns **200 episodis l’any**, amb nous episodis regulars i orientació a contingut d’àudio. Vol tenir presència a **Twitter, YouTube i Instagram**, i disposar d’una web amb **RSS, reproductor d’àudio i ample de banda estable**.
+
+### Objectius principals de la web
+- Permetre el consum dels podcasts mitjançant **RSS i streaming**.  
+- Gestionar **15.000 visites/mes inicials** amb previsió de creixement.  
+- Disposar d’**espai suficient per allotjar àudios** (uns 30 GB inicials).  
+- Oferir una **marca clara**, amb nom curt i sonor i domini preferentment **.fm** o **.com**.  
+
+### Requeriments tècnics identificats
+- Ample de banda **il·limitat o molt alt**.  
+- Espai d’emmagatzematge **ampliable** (mínim 30 GB).  
+- **SSL** i **backups automàtics**.  
+- Correu corporatiu i **DNS ràpids**.  
+- Integració d’**RSS i reproductor d’àudio**.  
+- Capacitat per **suportar pics de trànsit**.  
+
+---
+
+## 2. Anàlisi de dominis
+
+### Criteris per al naming
+- Nom curt, sonor i fàcil de recordar.  
+- Extensió preferida: **.fm** (ràdio/podcast) o **.com**.  
+- Evitar noms genèrics o amb marques similars.  
+
+### Alternatives de dominis disponibles per “RadioCap”
+
+| Domini         | Estat de disponibilitat | Comentaris                                         |
+|----------------|-------------------------|----------------------------------------------------|
+| radiocap.fm    | Disponible              | Especialitzat en ràdio/podcast, reforça la identitat |
+| radiocap.com   | Disponible              | Bona alternativa global i protecció de marca       |
+| capradio.fm    | Disponible              | Alternativa per SEO i identitat sonora             |
+| capradio.com   | Disponible              | Similar al anterior, però més genèric              |
+| soundcap.fm    | Disponible              | Creatiu, relacionat amb so i àudio                 |
+| podcastcap.fm  | Disponible              | Directe, però més llarg                            |
+
+### Recomanació final de domini
+**radiocap.fm**  
+- Reforça la identitat del projecte com a xarxa de podcasts.  
+- Recomanable també registrar **radiocap.com** per protecció de marca i abast internacional.  
+
+---
+
+## 3. Comparativa de hostings
+
+| Proveïdor                  | Espai disc       | Transferència / tràfic | Preu estimat (€/mes) | Pros                                               | Contres                          |
+|----------------------------|------------------|-------------------------|----------------------|----------------------------------------------------|----------------------------------|
+| Xenic Solution             | 100 GB SSD NVMe  | Il·limitada             | ~9,90 €              | Alta velocitat, SSL, backups 30 dies, proveïdor local | Recursos de CPU limitats        |
+| XHN.ES (Pla PRO)           | 120 GB SSD NVMe  | 10 TB/mes               | ~31,67 €             | Molta capacitat, suport tècnic local               | Cost més alt; cal confirmar streaming |
+| Host-Fusion (Hosting Elástico) | 25–155 GB SSD NVMe | Il·limitada         | ~15 €                | Escalable, domini inclòs, SSL i suport local       | Plans grans amb preu elevat     |
+| Podbean (Unlimited Plus)   | Il·limitat per àudio | Unmetered           | ~29 USD              | Especialitzat en podcasts, RSS integrat, estadístiques | Menys control del servidor propi |
+
+---
+
+## 4. Checklist de requeriments complerts
+- SSL inclòs ✅  
+- Backups automàtics ✅  
+- Correu corporatiu ✅  
+- CDN integrat (depèn del pla, opcional amb Cloudflare) ✅  
+
+---
+
+## 5. Recomanació final
+- **Hosting escollit:** Host-Fusion (Hosting Elástico) — Pla mitjà (55–105 GB SSD NVMe, transferència il·limitada)  
+- **Domini recomanat:** radiocap.fm  
+
+**Justificació:**  
+Host-Fusion ofereix **espai ampli, ample de banda il·limitada i un cost competitiu**.  
+És un proveïdor amb **bona reputació a Espanya i suport escalable**.  
+El domini **.fm** reforça la identitat del projecte com a **marca de ràdio i àudio professional**.  
+
+---
+
+## 6. Conclusions
+### Criteris més decisius
+- Transferència **il·limitada**  
+- Espai suficient per **arxius d’àudio i creixement**  
+- Fiabilitat i **suport tècnic**  
+- Domini rellevant i **fàcil de recordar**  
+
+### Per què aquesta proposta és la millor opció
+- Compleix tots els **requeriments tècnics i de seguretat**.  
+- Ofereix **bon rendiment** per a hosting de podcasts amb creixement previst.
