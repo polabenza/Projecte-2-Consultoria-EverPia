@@ -1,5 +1,5 @@
 # 🔐 T03: Seguretat Lògica - Recuperant Accés a Sistemes
-
+<img src="https://github.com/polabenza/Projecte-2-Consultoria-EverPia/blob/main/tasca03/img/Captura%20de%20pantalla%202025-10-22%20173924.png?raw=true" />
 1. 💻 **Escollim Advanced Options for Zorin**  
 2. 🖥️ **Seleccionem `root - Consola de Superusuario`**  
 3. 📝 **Posem la següent comanda**  
