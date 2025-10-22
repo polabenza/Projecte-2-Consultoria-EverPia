@@ -1,5 +1,4 @@
-![Captura](Captura de pantalla 2025-10-22 171115.png)Captura de pantalla 2025-10-22 171115.png
-
+![Captura](Captura de pantalla 2025-10-22 171115.png)
 
 
 
